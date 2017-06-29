@@ -1,0 +1,9 @@
+---
+name: NoCrafting
+author: WinterBuild7074
+version: 1.0
+api: [3.0.0-ALPHA5]
+main: WinterBuild7074\NoCrafting\Main
+commands: []
+permissions: []
+...
