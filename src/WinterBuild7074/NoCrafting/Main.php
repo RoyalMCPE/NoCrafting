@@ -9,7 +9,7 @@ use pocketmine\event\player\PlayerInteractEvent;
 use pocketmine\Server;
 use pocketmine\Player;
 
-class Main extends PluginBase implements PluginBase {
+class Main extends PluginBase implements Listener {
 	
 	public function onEnable(){
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
